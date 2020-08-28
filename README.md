@@ -1,4 +1,4 @@
-# The second git lab
+# Git Lab #2
 ## First team member: Kurt Ouimet
-## Second team member: Kurt Ouimet
-This repository is an example of a C++ project.
+
+Die class project. It simulates a die and includes a driver program.
