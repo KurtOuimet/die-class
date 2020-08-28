@@ -1,2 +1,2 @@
-# die-class
-Lab 1 for CS-2401
+# The second Git Lab
+## Second team member: Kurt Ouimet
