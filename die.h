@@ -1,8 +1,8 @@
-#​ifndef​ DIE_H
-#​define ​​DIE_H
-#​include ​​<iostream>
-#​include​ ​<fstream>
-using​​ namespace ​​std​;
+#ifndef​ DIE_H
+#define DIE_H
+#include <iostream>
+#include <fstream>
+using namespace std;
 class ​​Die​ {
 public:
     /**
@@ -48,7 +48,7 @@ public:
      * the face value of the die.
      * @return the stream used
      */
-    friend​ ostream& ​operator​ <<(ostream &out, ​const​ Die &d);
+    friend​ ostream& operator​ <<(ostream &out, ​const​ Die &d);
 private:
     int​ faceValue; ​///the face value of the die
     int​ numSides;  ​///number of faces of the die
