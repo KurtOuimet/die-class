@@ -1,4 +1,4 @@
-# Git Lab #2
+# The second git lab
 ## First team member: Kurt Ouimet
-
-Die class project. It simulates a die and includes a driver program.
+## Second team member: Kurt Ouimet
+### Die Project: simulates the rolling of a die with a specified number ofsides.
